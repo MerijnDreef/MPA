@@ -9,5 +9,6 @@
     "\\resources\\views",
     "\\routes"
   ],
+  "SelectedNode": "\\resources\\views\\Login.blade.php",
   "PreviewInSolutionExplorer": false
 }
